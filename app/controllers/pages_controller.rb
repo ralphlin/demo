@@ -15,4 +15,16 @@ class PagesController < ApplicationController
   	@title = "Help"
   end
 
+  def signin
+    @title = "Sign In"
+  end
+
+  def payment
+    @title = "Payment"
+  end
+
+  def checkin
+    @title = "Check In"
+  end
+
 end
