@@ -1,5 +1,2 @@
-# Ruby on Rails Tutorial: sample application
+# Backup of Noatta website for pitch to Khosla Ventures
 
-This is the sample application for
-[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
-by [Michael Hartl](http://michaelhartl.com/).
